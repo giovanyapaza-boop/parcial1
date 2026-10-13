@@ -110,6 +110,19 @@ textarea {
     background-color: #1B3A5C;
 }
 
+#mensaje {
+    margin-top: 15px;
+    padding: 10px;
+    border: 2px solid #2E86AB;
+    border-radius: 6px;
+    color: #1B3A5C;
+    background-color: #F4F7F9;
+}
+
+.oculto {
+    display: none;
+}
+
 footer {
     text-align: center;
     margin-top: 20px;
